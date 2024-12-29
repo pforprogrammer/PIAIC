@@ -1,6 +1,3 @@
-Here's a detailed explanation of your Jupyter Notebook in Markdown format:
-
----
 
 # Project Overview: **Hello World with LangChain and Google Gemini**
 
